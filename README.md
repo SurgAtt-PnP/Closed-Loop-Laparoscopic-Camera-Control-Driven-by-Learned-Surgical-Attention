@@ -1,4 +1,4 @@
-# SurgAtt-Tracker: Real-time surgical attention tracking in endoscopy
+# See What Matters: Closed-Loop Laparoscopic Camera Control Driven by Learned Surgical Attention
 
 This is the repository that contains source code for the [SurgAtt-PnP]( [https://icml-3977-yy.github.io/SurgAtt-Tracker/](https://github.com/SurgAtt-PnP/Closed-Loop-Laparoscopic-Camera-Control-Driven-by-Learned-Surgical-Attention/)).
 

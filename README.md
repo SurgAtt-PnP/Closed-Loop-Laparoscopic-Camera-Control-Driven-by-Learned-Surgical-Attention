@@ -1,6 +1,6 @@
 # See What Matters: Closed-Loop Laparoscopic Camera Control Driven by Learned Surgical Attention
 
-This is the repository that contains source code for the [SurgAtt-PnP].
+This is the repository that contains source code for the [SurgAtt-PnP](https://github.com/SurgAtt-PnP/Closed-Loop-Laparoscopic-Camera-Control-Driven-by-Learned-Surgical-Attention/).
 
 The code will be lease after the paper was accepted.
 
